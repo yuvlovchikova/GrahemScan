@@ -1,0 +1,5 @@
+﻿  GrahemScan.cpp
+C:\Users\yuvlo\source\repos\GrahemScan\GrahemScan\GrahemScan.cpp(177,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yuvlo\source\repos\GrahemScan\GrahemScan\GrahemScan.cpp(186,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yuvlo\source\repos\GrahemScan\GrahemScan\GrahemScan.cpp(191,22): warning C4018: <: несоответствие типов со знаком и без знака
+  GrahemScan.vcxproj -> C:\Users\yuvlo\source\repos\GrahemScan\Debug\GrahemScan.exe
